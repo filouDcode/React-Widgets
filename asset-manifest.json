@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Widgets/static/css/main.de6ca880.css",
+    "main.js": "/React-Widgets/static/js/main.39885cdb.js",
+    "index.html": "/React-Widgets/index.html",
+    "main.de6ca880.css.map": "/React-Widgets/static/css/main.de6ca880.css.map",
+    "main.39885cdb.js.map": "/React-Widgets/static/js/main.39885cdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de6ca880.css",
+    "static/js/main.39885cdb.js"
+  ]
+}
