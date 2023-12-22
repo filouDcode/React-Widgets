@@ -2,7 +2,7 @@
 
 ## Online Version
 
-(React-Widgets)[https://filoudcode.github.io/React-Widgets/]
+[React-Widgets](https://filoudcode.github.io/React-Widgets/)
 
 ## Available Scripts
 
